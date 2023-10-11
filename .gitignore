@@ -1,5 +1,6 @@
 # Gradle files
 /.gradle
+/app/build
 # IntelliJ
 /.idea
 # Local configuration file (sdk path, etc)
